@@ -71,7 +71,7 @@ kubectl get events -n <NAMESPACE> --sort-by=.lastTimestamp
 
 ## Liên quan
 
-- OpenShift (Route, Project, Operator, `oc`): [kb-redhat/ocp](../../kb-redhat/ocp/_index.md)
+- OpenShift (Route, Project, Operator, `oc`): [kb-redhat/ocp](https://github.com/lovelybugf/kb-redhat/blob/main/ocp/_index.md)
 - Triển khai theo GitOps: [Argo CD cơ bản](../gitops/argocd-basics.md)
 - [Podman cơ bản](../container/podman-basics.md)
 

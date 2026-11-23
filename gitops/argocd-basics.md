@@ -57,7 +57,7 @@ argocd app rollback <APP> <HISTORY_ID>   # tắt automated sync trước khi rol
 - Không commit Secret thô vào Git: dùng Sealed Secrets, External Secrets Operator hoặc SOPS.
 - Tách repo cấu hình triển khai khỏi repo mã nguồn; CI chỉ cập nhật tag image trong repo cấu hình.
 - Flux là lựa chọn tương đương (CRD `GitRepository` + `Kustomization`, không có UI mặc định).
-- Trên OpenShift, Argo CD được cung cấp qua OpenShift GitOps Operator — xem [kb-redhat/ocp](../../kb-redhat/ocp/_index.md).
+- Trên OpenShift, Argo CD được cung cấp qua OpenShift GitOps Operator — xem [kb-redhat/ocp](https://github.com/lovelybugf/kb-redhat/blob/main/ocp/_index.md).
 
 ## Liên quan
 

@@ -49,7 +49,7 @@ Dạng: `<type>(<scope>): <mô tả>`; thay đổi phá vỡ tương thích thê
 ## Liên quan
 
 - [Argo CD cơ bản](argocd-basics.md)
-- Quy ước commit cho các kho tri thức: [kb-core/standards/naming.md](../../kb-core/standards/naming.md)
+- Quy ước commit cho các kho tri thức: [kb-core/standards/naming.md](https://github.com/lovelybugf/kb-core/blob/main/standards/naming.md)
 
 ## Nguồn
 

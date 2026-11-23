@@ -2,7 +2,7 @@
 
 > Quản trị Linux nói chung (RHEL và tương thích): systemd, lưu trữ, mạng, bảo mật cơ bản.
 
-Phần riêng của sản phẩm RHEL (subscription, Leapp, vòng đời phiên bản) nằm ở [kb-redhat/rhel](../../kb-redhat/rhel/_index.md).
+Phần riêng của sản phẩm RHEL (subscription, Leapp, vòng đời phiên bản) nằm ở [kb-redhat/rhel](https://github.com/lovelybugf/kb-redhat/blob/main/rhel/_index.md).
 
 ## Trang
 

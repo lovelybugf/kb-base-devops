@@ -25,4 +25,4 @@ Nội dung riêng của sản phẩm Red Hat (RHEL, OpenShift, Satellite, ...) n
 
 - [README.md](README.md) — hướng dẫn nhanh cho người.
 - [log.md](log.md) — nhật ký thay đổi (chỉ ghi thêm).
-- [Chuẩn chung kb-core](../kb-core/index.md) — khuôn trang, tag, quy trình.
+- [Chuẩn chung kb-core](https://github.com/lovelybugf/kb-core/blob/main/index.md) — khuôn trang, tag, quy trình.

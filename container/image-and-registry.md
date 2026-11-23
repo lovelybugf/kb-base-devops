@@ -37,7 +37,7 @@ skopeo copy docker://<SRC_REGISTRY>/<NAMESPACE>/<REPO>:<TAG> docker://<DST_REGIS
 
 - Thông tin đăng nhập registry lưu trong `${XDG_RUNTIME_DIR}/containers/auth.json` (rootless) — không commit file này.
 - Chỉ dùng image từ registry tin cậy; kiểm tra chữ ký khi registry hỗ trợ (`policy.json`).
-- Môi trường không có Internet: đồng bộ image về registry nội bộ hoặc dùng Satellite làm nơi phân phối nội dung container — xem [Satellite](../../kb-redhat/satellite/_index.md).
+- Môi trường không có Internet: đồng bộ image về registry nội bộ hoặc dùng Satellite làm nơi phân phối nội dung container — xem [Satellite](https://github.com/lovelybugf/kb-redhat/blob/main/satellite/_index.md).
 
 ## Liên quan
 

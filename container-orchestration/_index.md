@@ -2,7 +2,7 @@
 
 > Điều phối container trên cụm máy: Kubernetes upstream (đối tượng, kubectl, mạng, lưu trữ).
 
-OpenShift không viết ở đây — chỉ đặt link sang [kb-redhat/ocp](../../kb-redhat/ocp/_index.md).
+OpenShift không viết ở đây — chỉ đặt link sang [kb-redhat/ocp](https://github.com/lovelybugf/kb-redhat/blob/main/ocp/_index.md).
 
 ## Trang
 
