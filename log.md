@@ -7,3 +7,4 @@
 2026-11-23 | update | link sang kho khác đổi sang URL GitHub (13 link); CLAUDE.md thêm quy tắc đọc file trên máy
 2026-11-25 | ingest | gitops/github-actions-blocked-by-site.md ← phiên Claude Code b3031a33
 2026-11-25 | ingest | windows/office-com-powershell.md ← phiên Claude Code dc97f4ce
+2026-11-25 | update | linux/systemd-basics.md, linux/storage-lvm.md: cập nhật link sang trang Satellite đã chuyển thư mục (hosts/, content/) ← phiên Claude Code b3031a33

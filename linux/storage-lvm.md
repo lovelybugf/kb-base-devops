@@ -63,7 +63,7 @@ df -hT <MOUNTPOINT>
 - XFS (mặc định trên RHEL) không thu nhỏ được; muốn giảm phải backup, tạo lại, restore.
 - PV nằm trên phân vùng: phải mở rộng phân vùng trước (`growpart`, gói `cloud-utils-growpart`) rồi mới `pvresize`.
 - Snapshot LVM cần dung lượng trống trong VG; snapshot đầy sẽ hỏng.
-- Thư mục hay phải mở rộng trên Satellite: `/var/lib/pulp` — xem [download policy](https://github.com/lovelybugf/kb-redhat/blob/main/satellite/download-policy.md).
+- Thư mục hay phải mở rộng trên Satellite: `/var/lib/pulp` — xem [download policy](https://github.com/lovelybugf/kb-redhat/blob/main/satellite/content/download-policy.md).
 
 ## Liên quan
 

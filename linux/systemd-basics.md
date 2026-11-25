@@ -64,7 +64,7 @@ systemctl enable --now <NAME>.timer
 systemctl disable --now <NAME>.timer
 ```
 
-Một timer gồm `<NAME>.timer` (lịch chạy) và `<NAME>.service` (việc cần làm). Ví dụ tắt job định kỳ của Insights client: xem [Tắt Red Hat Lightspeed](https://github.com/lovelybugf/kb-redhat/blob/main/satellite/disable-lightspeed.md).
+Một timer gồm `<NAME>.timer` (lịch chạy) và `<NAME>.service` (việc cần làm). Ví dụ tắt job định kỳ của Insights client: xem [Tắt Red Hat Lightspeed](https://github.com/lovelybugf/kb-redhat/blob/main/satellite/hosts/disable-lightspeed.md).
 
 ## Liên quan
 
