@@ -20,6 +20,7 @@ Nội dung riêng của sản phẩm Red Hat (RHEL, OpenShift, Satellite, ...) n
 ## Hạ tầng
 
 - [Cloud](cloud/_index.md) — mô hình IaaS/PaaS/SaaS, mạng và IAM trên cloud.
+- [Windows](windows/_index.md) — tự động hoá trên Windows: PowerShell, Office COM, Task Scheduler.
 
 ## Optional
 

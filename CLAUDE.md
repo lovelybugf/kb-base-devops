@@ -1,6 +1,6 @@
 # CLAUDE.md — kb-base-devops
 
-Phạm vi: nền tảng DevOps trung lập sản phẩm — Linux, container, Kubernetes upstream, Git/GitOps, khái niệm cloud. Không chứa nội dung riêng sản phẩm Red Hat (ở kb-redhat).
+Phạm vi: nền tảng DevOps trung lập sản phẩm — Linux, container, Kubernetes upstream, Git/GitOps/CI, khái niệm cloud, tự động hoá Windows (PowerShell, Office COM, Task Scheduler). Không chứa nội dung riêng sản phẩm Red Hat (ở kb-redhat).
 
 ## Thứ tự đọc
 1. File này → [index.md](index.md) → `_index.md` của chủ đề → mở 2–3 trang cần thiết.
